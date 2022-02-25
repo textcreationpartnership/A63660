@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of certaine passages which Captaine Basset brought from the west parts of Cornewall concerning some shippes which came from Bilbo in Spaine to goe to Ireland, but were driven into an iland called St. Ives, by reason of tempestuous weather : wherein was found great store of popish reliques, beside friers, priests, and Jesuites : there was also a ship which came from France to goe to Ireland,  wherein was found divers commanders, and officers who are ordered by the Parliament to come up to London with a strong guard : likewise, three ships which are in Dunkerke laden with ammunition and men for Ireland : as also, severall propositions made by the citie of London, for the raising of a million of money for the speedy subduing of the rebels in Ireland, twenty members of the House of Commons having subscribed already for 20,000 pounds.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63660</idno>
+            <idno type="STC">Wing T2900</idno>
+            <idno type="STC">ESTC R18912</idno>
+            <idno type="EEBO-CITATION">12603297</idno>
+            <idno type="OCLC">ocm 12603297</idno>
+            <idno type="VID">64225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E135, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of certaine passages which Captaine Basset brought from the west parts of Cornewall concerning some shippes which came from Bilbo in Spaine to goe to Ireland, but were driven into an iland called St. Ives, by reason of tempestuous weather : wherein was found great store of popish reliques, beside friers, priests, and Jesuites : there was also a ship which came from France to goe to Ireland,  wherein was found divers commanders, and officers who are ordered by the Parliament to come up to London with a strong guard : likewise, three ships which are in Dunkerke laden with ammunition and men for Ireland : as also, severall propositions made by the citie of London, for the raising of a million of money for the speedy subduing of the rebels in Ireland, twenty members of the House of Commons having subscribed already for 20,000 pounds.</title>
+               </titleStmt>
+               <extent>[2], 3, 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.O. and G.D. for Iohn Bull ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Basset, --  Captain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64225:1"/>
+            <pb facs="tcp:64225:1" rendition="simple:additions"/>
+            <p>
+               <hi>A true</hi> RELATION OF CERTAINE PASSAGES which Captaine <hi>Baſset</hi> brought from the Weſt parts of <hi>Cornewall.</hi>
+            </p>
+            <p>CONCERNING Some <hi>Shippes</hi> which came from <hi>Bilbo</hi> in <hi>Spaine</hi> to goe to <hi>Jreland;</hi> but were driven into an <hi>Iland</hi> called St. <hi>Ives,</hi> by reaſon of tempeſtuous wea<g ref="char:EOLhyphen"/>ther; wherein was found great ſtore of <hi>Popiſh Reliques,</hi> beſide FRIERS, PRIESTS, and JESUITES.</p>
+            <p>There was alſo a <hi>Ship</hi> which came from <hi>France</hi> to goe to <hi>Ireland,</hi> wherein was found divers Commanders, and Officers who are ordered by the <hi>Parliament</hi> to come up to <hi>London</hi> with a ſtrong <hi>Guard.</hi>
+            </p>
+            <p>LIKEWISE, Three <hi>Ships</hi> which are in <hi>Dunkerke</hi> laden with Ammu<g ref="char:EOLhyphen"/>nition and Men for IRELAND.</p>
+            <p>
+               <hi>AS ALSO,</hi> Severall Propoſitions made by the Citie of <hi>London,</hi> for the raiſing of a <hi>Million</hi> of <hi>Money</hi> for the ſpeedy ſubduing of the <hi>Rebels</hi> in <hi>Ireland;</hi> Twenty Members of the HOUSE of <hi>Commons</hi> having ſubſcribed already for 20000. <hi>pounds.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. O.</hi> and <hi>G. D.</hi> for <hi>Iohn Bull</hi> dwelling in <hi>Grubſtreet. Anno Dom.</hi> MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64225:2"/>
+            <pb n="1" facs="tcp:64225:2"/>
+            <head>A true Relation of certaine Ships which were driven into St <hi>Jves</hi> in <hi>Corn-wall,</hi> and into <hi>Dortmouth,</hi> by reaſon of Tempeſtuous Weather.</head>
+            <p>
+               <seg rend="decorInit">V</seg>PON Sabbath day laſt in the morning being the 13. of <hi>Februa<g ref="char:EOLhyphen"/>ry</hi> 1641. one Captaine <hi>Baſſet</hi> came to <hi>London</hi> from the <hi>Weſt</hi> Parts of <hi>Cornwall,</hi> and now lodgeth at the Signe of the <hi>Swann</hi> in the Strand, who brought certaine intelli<g ref="char:EOLhyphen"/>gence of two Ships which were driven into a <hi>Harbour,</hi> by reaſon of the Tempeſtu<g ref="char:EOLhyphen"/>ouſneſſe of the Weather, and now lyeth at St. <hi>Jves,</hi> which Ships came from <hi>Bilbo</hi> in <hi>Spaine,</hi> being bound for <hi>Jreland</hi> to aſſiſt the Bloud-ſucking Rebells there, againſt his Majeſties Subjects; which Rebells dayly increaſe more and more, and if ſpeedy reliefe comes not to thoſe who yet are not overcome, the whole Kingdome is like to be loſt.</p>
+            <p>Now theſe two Ships when they were driven into St. <hi>Ives,</hi> ſome of the men which were on bourd came on Land, to view the place where they were caſt in<g ref="char:EOLhyphen"/>to, and as they ſay to buy food for themſelves.</p>
+            <pb n="2" facs="tcp:64225:3"/>
+            <p>There was a man who lived in that <hi>Harbour,</hi> being witty, he made as if he had bin a Juſtice of Peace whereupon he examined them, what and who they were; and from whence they came, and whither they were going, this man not liking their anſwer, ten<g ref="char:EOLhyphen"/>dred unto them the Oath of Allegiance, the which they tooke, he ſeeing that he could not finde them out what they were by that meanes, then he tendred unto them the Oath of Supremacy the which they refuſed to take, whereupon he ſuſpected what they were, and therefore made thoſe acquainted with it which had authority, and ſo cauſed them to be layd hold on and apprehended, which when they were layd faſt, then they went with a great number toge<g ref="char:EOLhyphen"/>ther to the Ships and ſearched them, wherein they found a-Bourd greate ſtore of Iron, ſix and twenty Tunn of Wheate, &amp; eighteene Hoggs-heads of Wine. There was alſo found ſix Fryers, and aboundance of Prieſts and Ieſuites, together with many others of their faction.</p>
+            <p>There was likewiſe found on bourd in the ſame Ships many <hi>Crucifixes, Beads,</hi> and certaine mens <hi>Teeth,</hi> which the <hi>Prieſts</hi> told were ſome of St. <hi>Peters Teeth.</hi> There was likewiſe found a little water in a very ſmall Veſſell, which the <hi>Prieſts</hi> ſay is <hi>Mary Magda<g ref="char:EOLhyphen"/>lens</hi> Teares, there was likewiſe found a piece of <hi>Wood</hi> which they ſay was a piece of the <hi>Croſſe</hi> which <hi>Chriſt</hi> was Crucified upon. This more eſpecially they tooke with them that ſo by that meanes they may be pro<g ref="char:EOLhyphen"/>tected with ſafety to their Ionrneys end, now how Treacherouſly their God whom they truſted in) hath dealt with them: all men may judge by the effects, for they are all in Priſon in St. <hi>Ives</hi> untill the plea<g ref="char:EOLhyphen"/>ſure
+<pb n="3" facs="tcp:64225:3"/>of the Parliament be knowne concerning them.</p>
+            <p>Beſides there was found in thoſe two Ships very many Letters, which now are brought to the <hi>Parlia<g ref="char:EOLhyphen"/>ment:</hi> the contents whereof are not yet publiſhed.</p>
+            <p>There is alſo certaine intelligence brought over of three other Ships which is in <hi>Dunkirk</hi> very full of Ammunition and men bound for <hi>Jreland,</hi> the names of the Ships are theſe.</p>
+            <list>
+               <item>1. <hi>The Admirall of Dunkirk.</hi>
+               </item>
+               <item>2. <hi>The Flute.</hi>
+               </item>
+               <item>3. <hi>An Hamburgur.</hi>
+               </item>
+            </list>
+            <p>The truth of this is verifyed in a Meſſage from a Committee of both Houſes, to the <hi>Spaniſh Ambaſſa<g ref="char:EOLhyphen"/>dor.</hi>
+            </p>
+            <p>Laſtly there was alſo very lately driven into <hi>Dart<g ref="char:EOLhyphen"/>mouth</hi> by reaſon of Tempeſtuous Weather a <hi>Barque</hi> which came from <hi>France,</hi> wherein was divers Com<g ref="char:EOLhyphen"/>manders and Officers going to <hi>Ireland,</hi> who now are taken hold of and laid in ſafe Cuſtody, being orde<g ref="char:EOLhyphen"/>red by the <hi>Parliament</hi> to come up to <hi>London,</hi> with a ſtrong guard, Firſt the Commanders by themſelves and the Officers by themſelves a part from the Com<g ref="char:EOLhyphen"/>manders, that ſo the truth of their intentions may be the better knowne.</p>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:64225:4"/>
+            <head>The <hi>
+                  <g ref="char:V">Ʋ</g>otes</hi> of the <hi>Lords</hi> and <hi>Commons</hi> upon the <hi>Propoſitions</hi> made by divers worthy and well affected Perſons, for the ſpeedy and effectuall reducing of the Kingdome of <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons, taking into their ſerious conſiderations, aſwell the neceſſity of a ſpeedy reducing of the <hi>Rebels</hi> of <hi>Ireland,</hi> to their due obedience, as alſo the great ſummes of money that the <hi>Commons</hi> of this Realme have of late paid for the publike and neceſſary affaires of the Kingdome, whereof the Lords and Com<g ref="char:EOLhyphen"/>mons are very ſenſible, and deſirous to embrace all good and honourable wayes, tending to his Majeſties great<g ref="char:EOLhyphen"/>neſſe and profit, the ſettling of that Realme, and the caſe of his <hi>Majeſties</hi> Subjects of ENGLAND: And where<g ref="char:EOLhyphen"/>as divers worthy and well affected perſons, perceiving that many Millions of Acres of the <hi>Rebels</hi> Lands of that Kingdom, which go under the name of profitable <hi>Lands,</hi> will be confiſcate, and to be diſpoſed of, and that in caſe two Millions and a halfe of thoſe Acres, to bee equally taken out of the foure Provinces of that Kingdome, may be allotted for the ſatisfaction of ſuch perſons as ſhall disburſe any ſummes of money for the reducing of the <hi>Rebels</hi> there, would effectually accompliſh the ſame, have made theſe Propoſitions enſuing.</p>
+            <p>FIrſt, that two Millions and a halfe of thoſe Acres may be aſſigned, allotted, and divided amongſt them, after this Proportion; <hi>Viz.</hi>
+            </p>
+            <pb facs="tcp:64225:4"/>
+            <p>For each Ad<g ref="char:EOLhyphen"/>venture of
+<list>
+                  <item>200. <hi>li.</hi> 1000. <hi>Acres</hi> in <hi>
+                        <g ref="char:V">Ʋ</g>lster.</hi>
+                  </item>
+                  <item>300. <hi>li.</hi> 1000. <hi>Acres</hi> in <hi>Conaght.</hi>
+                  </item>
+                  <item>450. <hi>li.</hi> 1000. <hi>Acres</hi> in <hi>Munſter.</hi>
+                  </item>
+                  <item>600. <hi>li.</hi> 1000. <hi>Acres</hi> in <hi>Lemſter.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All according to the Engliſh meaſure, and conſiſting of Meadow, Arable, and profitable Paſture; The <hi>bogs, woods</hi> and <hi>barren mountains</hi> being caſt in, over and above; Theſe two Millions and a halfe of <hi>Acres</hi> to be holden in free, and common Soccage of the King, as of his Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Dublin.</hi>
+            </p>
+            <p n="2">2. That out of thoſe two Millions and a halfe of <hi>Acres</hi> a conſtant rent ſhall be reſerved to the Crowne of England, after this proportion, <hi>viz.</hi>
+            </p>
+            <p>Out of each <hi>Acre</hi> thereof in
+<list>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>lſter.</hi> 1.<hi rend="sup">d.</hi>
+                  </item>
+                  <item>
+                     <hi>Conaght.</hi> 1.<hi rend="sup">ob.</hi>
+                  </item>
+                  <item>
+                     <hi>Munſter.</hi> ij. q;</item>
+                  <item>
+                     <hi>Lemſter.</hi> iij.<hi rend="sup">d.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Whereby his Majeſties Revenue out of thoſe lands will be much improved, beſides the advantages that hee will have by the comming to his hands of all other the Lands of the <hi>Rebels,</hi> and their perſonall eſtates, without any charge unto his <hi>Majeſtie.</hi>
+            </p>
+            <p n="3">3. That for the erecting of Mannors, ſetling of waſts and commons, maintaining of preaching Miniſters, cre<g ref="char:EOLhyphen"/>ating of Corporations, and regulating of the ſeverall Plantations, one or more Commiſſions bee hereafter granted by Authority of <hi>Parliament.</hi>
+            </p>
+            <p n="4">4. That Moneyes for theſe great occaſions may be the more ſpeedily advanced, All the undertakers in the Citie of <hi>London,</hi> and within twenty miles diſtant there<g ref="char:EOLhyphen"/>of, ſhall under-write their ſeverall ſummes before the twentieth day of <hi>March;</hi> 1641. And all within ſixtie Miles of LONDON, before the firſt day of
+<pb n="3" facs="tcp:64225:5"/>
+               <hi>April,</hi> 1642. And the reſt of the Kingdome before the firſt day of <hi>May,</hi> 1642.</p>
+            <p n="5">5. That the ſeverall ſummes to be under written, ſhall be paid in at foure payments; <hi>viz.</hi> one fourth part within 10. dayes after ſuch under-writing: And the o<g ref="char:EOLhyphen"/>ther three parts at three moneths, 3. moneths, and 3. moneths, all to be paid in the Chamber of <hi>London.</hi>
+            </p>
+            <p n="6">6. That, for the better ſecuring of the ſaid ſeverall ſumms accordingly, Every one that doth ſo under-write ſhall at the time of his ſubſcription pay down the twen<g ref="char:EOLhyphen"/>tieth part of the totall ſumme that ſhall be by him then under-written.</p>
+            <p>And in caſe that the reſidue of his firſt fourth part be not paid in to ſuch perſon or perſons as ſhall be appoin<g ref="char:EOLhyphen"/>ted to receive the ſame, within the ten dayes before limi<g ref="char:EOLhyphen"/>ted: then ſuch partie ſhall not only forfeit the twenti<g ref="char:EOLhyphen"/>eth part of ſumm totall, formerly depoſited, but ſo much more of his firſt fourth payment to be added thereunto as ſhall make up the one moitie of the ſaid firſt payment. And if the ſame perſon ſhall faile in any other of the 3. payments, hee ſhall then forfeit his entire firſt fourth and all the benefit of his ſubſcription, which forfeiture ſhall accrue to the common benefit of the reſt of the un<g ref="char:EOLhyphen"/>dertakers.</p>
+            <p>The Lords and Commons upon due and mature deli<g ref="char:EOLhyphen"/>beration of theſe propoſitions, have approved of them, and given their conſent unto the ſame; and will become humble Petitioners to his Majeſty for his Royall appro<g ref="char:EOLhyphen"/>bations thereof, and that hereafter he will bee pleaſed, upon the humble ſute of both Houſes of <hi>Parliament</hi> to give his Royall aſſent unto ſuch Bils as they ſhall tender unto him for the ſetling of thoſe Propoſitions, and all other things neceſſary conducing thereunto.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64225:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
